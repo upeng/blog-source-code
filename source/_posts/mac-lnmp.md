@@ -1,11 +1,8 @@
----
 title: Mac下安装LNMP(Nginx+PHP5.6)环境
-date: 2016-08-28 22:28:49
 tags: Mac
 categories: 其他
+date: 2016-08-28 22:28:49
 ---
-
-
 ## 安装Homebrew
 从零开始安装Mac下LNMP环境的过程
 
@@ -26,7 +23,7 @@ brew install FORMULA
 2. 更新程序源 brew update
 3. 安装程序包（按照配方酿酒） brew install git
 4. 查看配置 brew config 可以看到程序包默认安装在/usr/local/Cellar下 （酒桶放在地窖内）
-
+<!-- more -->
 ## 安装PHP5.6（FPM方式）
 首先加入Homebrew官方的几个软件源
 ```
@@ -34,7 +31,7 @@ brew tap homebrew/dupes
 brew tap homebrew/versions
 brew tap homebrew/php
 ```
-<!-- more -->
+
 PHP如果采用默认配置安装，会编译mod_php模块并只运行在Apache环境下，为了使用Nginx，这里需要编译php-fpm并且禁用apache，主要通过参数`--without-fpm --without-apache`来实现。完整的安装指令为
 ```
 brew install php56 \
