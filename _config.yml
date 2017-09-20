@@ -80,6 +80,10 @@ sitemap:
 baidusitemap:
   path: baidusitemap.xml
 
+calendar:
+    single: true
+    root: calendar/
+
 # hexo-admin authentification
 admin:
   username: tayloryu

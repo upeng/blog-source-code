@@ -1,4 +1,4 @@
-title: laravel Eloquent ORM和查询构造器使用小结&一个自己不知道的小坑
+title: Eloquent ORM多个and和or条件查询
 tags:
   - laravel
   - eloquent
@@ -7,7 +7,7 @@ categories:
 author: tayloryu
 date: 2017-09-14 22:38:00
 ---
-### Eloquent ORM和查询构造器
+### Eloquent ORM和查询构造器Query Builder
 ```
 Model::all();
 Model::where();
