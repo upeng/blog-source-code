@@ -3,7 +3,7 @@ tags:
   - laravel
   - eloquent
 categories:
-  - PHP编程
+  - PHP
 author: tayloryu
 date: 2017-09-14 22:38:00
 ---

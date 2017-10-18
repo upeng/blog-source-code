@@ -2,7 +2,7 @@
 title: PHP设计模式-工厂模式
 date: 2015-10-12 22:12
 tags: 设计模式
-categories: PHP编程
+categories: PHP
 ---
 
 ## 简单工厂模式

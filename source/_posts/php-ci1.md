@@ -2,7 +2,7 @@
 title: CI模型-视图-控制器 命名规范
 date: 2015-08-13 19:47
 tags: CI
-categories: PHP编程
+categories: PHP
 ---
 
 ### controller：

@@ -2,7 +2,7 @@
 title: PHP设计模式-单例模式
 date: 2015-10-14 22:21
 tags: 设计模式
-categories: PHP编程
+categories: PHP
 ---
 
 ## 单例模式

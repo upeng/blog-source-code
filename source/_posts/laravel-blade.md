@@ -2,7 +2,7 @@
 title: laravel的blade视图模板引擎
 date: 2016-04-29 00:18
 tags: laravel
-categories: PHP编程
+categories: PHP
 ---
 
 ### blade模板引擎使用

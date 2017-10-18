@@ -2,7 +2,7 @@
 title: laravel migration
 date: 2016-05-07 20:10
 tags: laravel
-categories: PHP编程
+categories: PHP
 ---
 
 ## laravel migration工具

@@ -1,6 +1,6 @@
 ---
 title: vuejs与后台数据的交互实践
-date: 2016-07-17 15:58:17
+date: 2016-12-17 15:58:17
 tags: vuejs
 categories: 前端
 ---

@@ -2,7 +2,7 @@
 title: 使用zephir快速编写php扩展
 date: 2016-06-30 23:42:24
 tags: zephir
-categories: PHP编程
+categories: PHP
 ---
 
 ## zephir简介

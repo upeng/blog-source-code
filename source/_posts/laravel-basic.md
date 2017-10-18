@@ -2,7 +2,7 @@
 title: 'laravel基础任务学习清单'
 date: 2016-08-15 22:24:32
 tags: laravel
-categories: PHP编程
+categories: PHP
 ---
 
 

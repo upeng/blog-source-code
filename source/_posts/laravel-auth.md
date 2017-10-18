@@ -2,7 +2,7 @@
 title: laravel学习笔记-用户认证
 date: 2016-05-29 08:17:07
 tags: laravel
-categories: PHP编程
+categories: PHP
 ---
 
 在平时开发过程中，用户登录注册是非常常见的场景，比如大部分后台管理、论坛等等；用户一般web访问流程从业务来说是这样的：

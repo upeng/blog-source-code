@@ -2,7 +2,7 @@
 title: 几个值得深思的 PHP 面试问题
 date: 2016-05-28 00:04:26
 tags: php
-categories: PHP编程
+categories: PHP
 ---
 
 5个值得深思的 PHP 面试问题

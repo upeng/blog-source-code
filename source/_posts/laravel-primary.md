@@ -2,7 +2,7 @@
 title: laravel初体验
 date: 2016-04-25 20:10
 tags: laravel
-categories: PHP编程
+categories: PHP
 ---
 
 ### 访问流程
