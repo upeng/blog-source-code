@@ -12,8 +12,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://upeng.github.io/blog/
-root: /blog/
+url: https://upeng.github.io/
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -98,5 +98,5 @@ metadata:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy: 
   type: git
-  repository: git@github.com:upeng/blog.git
+  repository: git@github.com:upeng/upeng.github.io.git
   branch: master
